@@ -14,4 +14,4 @@ This repository features data cleaning and visualization pipelines for open-sour
 4. **Visualization**: Plotted behavioral distributions and summary matrices using R.
 
 ### Analysis Visualizations
-![Clinical Data Plot](Rplot.png)
+![Clinical Data Plot](R plot RclM.png)
